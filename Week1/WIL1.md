@@ -15,3 +15,6 @@
 6 실습 이어서 : git commit - git remote add origin <주소>(깃헙 주소 연결) - git push -u origin main 
 
 7 요약 : git의 사용 이유 - 코드 관리, git의 area - (un)tracked, git-github 함께 보기 - add->commit->push, 실습 - README.md 파일 github에 push.
+
++ 링크 추가
+https://github.com/K-LI-O/K-LI-O/blob/main/README.md
