@@ -21,11 +21,10 @@ Git에는 세 가지 영역이 있다.
 현재 우리는 ```main```브랜치에 있다.  
 ```develop```이라는 브랜치를 새로 만들고 이동까지 한번에 할 수 있는 명령어를 적으시오.
 
-- 답: 이 문장을 지우고 답을 작성하면 됩니다.
+- 답: $ git checkout -b "develop"
 
 ### Q4
 Working Directory에 있는 파일들을 모두 Staging Area에 추가할 수 있는 명령어를 적으시오.
-
 - 답: $ git add .
 
 ### Q5
